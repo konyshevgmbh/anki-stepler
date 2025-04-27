@@ -1,0 +1,18 @@
+[project]
+name = "anki_offline_generator"
+version = "0.2.0" # Increment version
+description = "Offline Anki deck generator using local LLM (Gemma/Llama) and Coqui TTS models."
+requires-python = ">=3.9 , <3.12"
+dependencies = [
+    "genanki>=0.13.0",
+    "transformers>=4.38.0",  
+    "torch>=2.1.0",
+    "TTS>=0.22.0",
+    "sentencepiece",  
+    "accelerate>=0.25.0", 
+    "icecream ~= 2.1.3",
+    "nltk",
+]
+
+[tool.uv]
+# Optional uv configurations if needed
