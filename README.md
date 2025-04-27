@@ -10,8 +10,8 @@ Automagically creates Anki vocabulary decks (`.apkg`) from a word list using:
 
 **Run:**
 ```bash
-# Basic:
-python anki_deck_generator.py your_words.txt --lang-src de --lang-target en
-
-# Options (--help for more):
-python anki_deck_generator.py words.txt --llm-model-example-gen <model_id> --llm-model-translate <model_id> --tts-speaker <name> --use-quantization
+python anki_deck_generator.py test.txt  
+```
+**Tips:**
+*   Use `uv` for fast environment setup (`uv venv && uv sync`).
+*   Use VS Code Dev Containers for a pre-built environment.
