@@ -319,9 +319,8 @@ class AnkiDeckGeneratorMultiLLM_DBState:
         if not self.tts_model: return None
         if not text: return None
         try:
-            safe_base = self._sanitize_filename(base_filename)
-            timestamp_random = f"{int(time.time())}_{random.randint(1000, 9999)}"
-            filename = f"tts_{lang_code}_{safe_base}_{timestamp_random}.wav"
+            timestamp = f"{int(time.time())}"
+            filename = f"tts_{lang_code}_{timestamp}.wav"
             filepath = self.media_path / filename
             cleaned_tts_text = self._clean_text(text)
             if not cleaned_tts_text: ic("TTS Warning: Skipping empty text"); ic(text); return None
@@ -522,7 +521,8 @@ class AnkiDeckGeneratorMultiLLM_DBState:
                 tgt_lang=tgt_lang_code,
                 device=0 if self.device.type != "cpu" else -1
             )
-            ic(f"Translation pipeline src={src_lang_code} -> tgt={tgt_lang_code}")
+            ic( src_lang_code )
+            ic( tgt_lang_code )
             return True
 
         except Exception as e:
