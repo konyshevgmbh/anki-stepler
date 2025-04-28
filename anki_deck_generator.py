@@ -343,7 +343,11 @@ class AnkiDeckGeneratorMultiLLM_DBState:
             filename = f"tts_{lang_code}_{timestamp}.wav"
             filepath = self.media_path / filename
             cleaned_tts_text = self._clean_text(text)
-            if not cleaned_tts_text: ic("TTS Warning: Skipping empty text"); ic(text); return None
+            ic(cleaned_tts_text)
+            if not cleaned_tts_text: 
+                ic("TTS Warning: Skipping empty text") 
+                ic(text)
+                return None
             ic(lang_code)
             ic(filename)
             self.tts_model.tts_to_file(text=cleaned_tts_text, speaker=self.tts_speaker, language=lang_code, file_path=str(filepath))
@@ -701,7 +705,8 @@ class AnkiDeckGeneratorMultiLLM_DBState:
 
             if not src_audio_valid:
                 needs_generation = True
-                tts_text_src = f"{source_word}. {cached_entry['source_example']}"
+                cleared_word = self._clean_text(source_word)
+                tts_text_src = f"{cleared_word} {cached_entry['source_example']}"
                 generated_fname = self._generate_tts_audio(tts_text_src, self.lang_src_code, source_word)
                 if generated_fname: update_data["source_audio_filename"] = generated_fname
                 # Else: failure logged, filename will be None in update_data
@@ -836,7 +841,7 @@ def main():
     parser.add_argument("--lang-src", default="de", help=f"Source language code. Available: {list(AnkiDeckGeneratorMultiLLM_DBState._LANG_FULL_NAME_MAP.keys())}")
     parser.add_argument("--lang-target", default="en", help=f"Target language code. Available: {list(AnkiDeckGeneratorMultiLLM_DBState._LANG_FULL_NAME_MAP.keys())}")
     parser.add_argument("--llm-model-example-gen", default="google/gemma-2-2b-it", help="LLM for source example generation (HF Hub).")
-    parser.add_argument("--llm-model-translate", default="facebook/nllb-200-distilled-600M", help="LLM for translation (HF Hub). NLLB recommended.")
+    parser.add_argument("--llm-model-translate", default="facebook/nllb-200-distilled-1.3B", help="LLM for translation (HF Hub). NLLB recommended.")
     parser.add_argument("--tts-model", default="tts_models/multilingual/multi-dataset/xtts_v2", help="TTS (XTTS) model identifier.")
     parser.add_argument("--tts-speaker", default="Ana Florence", help="Speaker name/ID for XTTSv2 (`tts --list_models`).")
     parser.add_argument("--use-quantization", action="store_true", help="Request 4-bit LLM quantization (requires bitsandbytes & CUDA). Applies to both LLMs.")
