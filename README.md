@@ -6,6 +6,14 @@ Automagically creates Anki vocabulary decks (`.apkg`) from a word list using:
 *   TTS (XTTSv2) for source & target audio.
 *   SQLite DB for **resumable** progress.
 
+**Sample Preview:**  
+![Sample Deck](sample.png)
+
+**Audio Samples:**  
+- [▶️ German (DE) TTS Sample](sample_de.wav)  
+- [▶️ Russian (RU) TTS Sample](sample_ru.wav)
+
+
 **Requires:** Python, PyTorch, `transformers`, `TTS`, `genanki`, `icecream`, `espeak-ng`.
 
 **Run:**
