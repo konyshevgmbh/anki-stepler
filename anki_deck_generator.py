@@ -205,46 +205,65 @@ class AnkiDeckGeneratorMultiLLM_DBState:
         return cleaned_text
 
     def _build_prompt(self, word: str) -> str:
-        """
-        Dynamically build the prompt for sentence generation based on source language.
-        """
         lang = self.lang_src_code.lower()
 
-        if lang == "en":
-            return f"Write a simple short sentence (max 4 words) using the word '{word}'. Sentence:"
-        elif lang == "de":
-            return f"Schreibe einen einfachen, kurzen Satz (max. 4 Wörter) mit dem Wort '{word}'. Satz:"
-        elif lang == "ru":
-            return f"Напиши простое короткое предложение (макс. 4 слова) со словом '{word}'. Предложение:"
-        elif lang == "fr":
-            return f"Écris une phrase courte et simple (4 mots maximum) avec le mot '{word}'. Phrase:"
-        elif lang == "es":
-            return f"Escribe una frase sencilla y corta (máximo 4 palabras) usando la palabra '{word}'. Frase:"
-        elif lang == "it":
-            return f"Scrivi una frase breve e semplice (massimo 4 parole) usando la parola '{word}'. Frase:"
-        elif lang == "pt":
-            return f"Escreva uma frase simples e curta (máximo 4 palavras) usando a palavra '{word}'. Frase:"
-        elif lang == "pl":
-            return f"Napisz krótkie, proste zdanie (maksymalnie 4 słowa) używając słowa '{word}'. Zdanie:"
-        elif lang == "tr":
-            return f"'{word}' kelimesini kullanarak kısa ve basit bir cümle yazın (maksimum 4 kelime). Cümle:"
-        elif lang == "nl":
-            return f"Schrijf een korte, eenvoudige zin (maximaal 4 woorden) met het woord '{word}'. Zin:"
-        elif lang == "cs":
-            return f"Napiš krátkou, jednoduchou větu (maximálně 4 slova) se slovem '{word}'. Věta:"
-        elif lang == "ar":
-            return f"اكتب جملة بسيطة وقصيرة (بحد أقصى 4 كلمات) باستخدام الكلمة '{word}'. الجملة:"
-        elif lang == "zh-cn":
-            return f"用'{word}'写一个简单的短句（最多4个词）。句子："
-        elif lang == "ja":
-            return f"単語「{word}」を使って、簡単で短い文（最大4語）を書いてください。文："
-        elif lang == "ko":
-            return f"단어 '{word}'를 사용하여 짧고 간단한 문장(최대 4단어)을 작성하세요. 문장:"
-        elif lang == "hu":
-            return f"Írj egy egyszerű, rövid mondatot (max. 4 szó) a következő szóval: '{word}'. Mondat:"
-        else:
-            return f"Write a short simple sentence (max 4 words) using the word '{word}' in {lang}. Sentence:"
-    
+        # Store language-specific components
+        lang_data = {
+            "en": ("Write a simple, short sentence using the word '{word}'.", "house", "The house is big."),
+            "de": ("Schreibe einen einfachen, kurzen Satz mit dem Wort '{word}'.", "Haus", "Das Haus ist groß."),
+            "ru": ("Напиши простой, короткий Satz с словом '{word}'.", "дом", "Дом большой."), # Keep Satz for consistency or change back
+            "fr": ("Écris une phrase simple et courte avec le mot '{word}'.", "maison", "La maison est grande."),
+            "es": ("Escribe una frase sencilla y corta con la palabra '{word}'.", "casa", "La casa es grande."),
+            "it": ("Scrivi una frase semplice e breve con la parola '{word}'.", "casa", "La casa è grande."),
+            "pt": ("Escreva uma frase simples e curta com a palavra '{word}'.", "casa", "A casa é grande."),
+            "pl": ("Napisz proste, krótkie zdanie ze słowem '{word}'.", "dom", "Dom jest duży."),
+            "tr": ("'{word}' kelimesiyle basit, kısa bir cümle yaz.", "ev", "Ev büyük."),
+            "nl": ("Schrijf een eenvoudige, korte zin met het woord '{word}'.", "huis", "Het huis is groot."),
+            "cs": ("Napiš jednoduchou, krátkou větu se slovem '{word}'.", "dům", "Dům je velký."),
+            "ar": ("اكتب جملة بسيطة وقصيرة باستخدام الكلمة '{word}'.", "بيت", "البيت كبير."),
+            "zh-cn": ("用单词 '{word}' 写一个简单的短句。", "房子", "房子很大。"),
+            "ja": ("単語「{word}」を使って、簡単で短い文を書いてください。", "家", "家は大きいです。"),
+            "ko": ("단어 '{word}'를 사용하여 간단하고 짧은 문장을 작성하십시오.", "집", "집은 큽니다."),
+            "hu": ("Írj egy egyszerű, rövid mondatot a '{word}' szóval.", "ház", "A ház nagy."),
+        }
+
+        # Default values if language not found
+        default_data = (f"Write a simple, short sentence using the word '{{word}}' in {lang}.", "example", "This is an example.")
+
+        # Get the data for the current language or use default
+        instruction_template, example_word, example_sentence = lang_data.get(lang, default_data)
+
+        # Format the instruction with the actual word
+        instruction = instruction_template.format(word=word) # Use .format() for safety if template comes from external source, or f-string if trusted internal source
+
+        # Build the final prompt using the template structure
+        prompt = f"""{instruction}
+        Input: {example_word}
+        Output: <sentence>{example_sentence}</sentence>
+        Input: {word}
+        Output: <sentence>"""
+
+        return prompt.strip()
+
+
+    def extract_sentence_from_tag(self, model_output: str) -> str | None:
+        # Case 1: Try matching the full <sentence>...</sentence> pattern (case-insensitive)
+        full_match = re.search(r'<sentence>(.*?)</sentence>', model_output, re.DOTALL | re.IGNORECASE)
+        if full_match:
+            sentence = full_match.group(1).strip()
+            return sentence if sentence else None # Return None if tag content is empty
+
+        # Case 2: Full pattern failed. Check if </sentence> exists (case-insensitive)
+        closing_tag_match = re.search(r'</sentence>', model_output, re.IGNORECASE)
+        if closing_tag_match:
+            # Extract text from the beginning up to the closing tag
+            start_index = 0
+            end_index = closing_tag_match.start()
+            sentence = model_output[start_index:end_index].strip()
+            return sentence if sentence else None # Return None if extracted part is empty
+
+        # If neither pattern matched, return None
+        return None
     # --- LLM Content Generation ---
     def _generate_source_example(self, source_word: str) -> Optional[str]:
         if not self.llm_pipeline: 
@@ -259,9 +278,10 @@ class AnkiDeckGeneratorMultiLLM_DBState:
                 
                 outputs = self.llm_pipeline(prompt, max_new_tokens=25, do_sample=True, temperature=0.9, repetition_penalty=1.1, return_full_text=False, pad_token_id=self.llm_pipeline.tokenizer.eos_token_id, eos_token_id=self.llm_pipeline.tokenizer.eos_token_id)
                 full_text = outputs[0]['generated_text'] if outputs and 'generated_text' in outputs[0] else ""
+                full_text = self.extract_sentence_from_tag(full_text)
                 full_text = self._clear_llm_text(full_text)
                 words_count = len(full_text.split())
-                if words_count > 10 or words_count < 2:
+                if words_count > 10 or words_count < 3:
                     ic("Example Gen Error: Invalid word count") 
                     ic(attempt)
                     ic(full_text)  
