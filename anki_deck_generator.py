@@ -130,7 +130,7 @@ class AnkiDeckGeneratorMultiLLM_DBState:
 
     def _setup_anki_model_deck(self):
         self.anki_model = genanki.Model(
-            self._MODEL_ID, 'Multilang Vocab Model v7 (Multi-LLM DBState NoStats)', # Updated name
+            self._MODEL_ID, 'VocabGenModel',  
             fields=self._ANKI_FIELDS, templates=self._ANKI_TEMPLATES, css=self._CSS
         )
         self.anki_deck = genanki.Deck(self._DECK_ID, self.deck_name)
@@ -744,7 +744,7 @@ class AnkiDeckGeneratorMultiLLM_DBState:
 
              note_fields = [ source_word, final_data["source_example"], final_data["target_word"],
                              final_data["target_example"], source_audio_anki, target_audio_anki ]
-             tags = [ self.input_file.stem.replace(" ", "_"), f"{self.lang_src_code}-{self.lang_target_code}", 'multi-llm-dbstate-nostats' ] # Update tag
+             tags = [ f"{self.lang_src_code}-{self.lang_target_code}" ] 
              anki_note = genanki.Note(model=self.anki_model, fields=note_fields, tags=tags)
              self.anki_notes.append(anki_note)
              notes_added += 1
@@ -753,6 +753,11 @@ class AnkiDeckGeneratorMultiLLM_DBState:
 
         # === Generate Anki Package ===
         if not self.anki_notes: print("\nNo notes generated. Skipping package."); return
+        
+        # Add all prepared notes to the deck
+        for note in self.anki_notes:
+            self.anki_deck.add_note(note)
+
         ic("Generating Anki package...")
         final_media_list = sorted(list(self.media_files_added))
         ic(len(final_media_list))
