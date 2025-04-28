@@ -16,3 +16,4 @@ python anki_deck_generator.py test.txt
 *   Use `uv` for fast environment setup (`uv venv && uv sync`).
 *   Use VS Code Dev Containers for a pre-built environment.
 *   Setup your huggegingface token
+*   PyTorch inside the container works smoothly with CUDA if the GPU supports it. Locally, you might need to tweak drivers and versions.
