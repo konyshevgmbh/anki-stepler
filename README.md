@@ -15,3 +15,4 @@ python anki_deck_generator.py test.txt
 **Tips:**
 *   Use `uv` for fast environment setup (`uv venv && uv sync`).
 *   Use VS Code Dev Containers for a pre-built environment.
+*   Setup your huggegingface token
