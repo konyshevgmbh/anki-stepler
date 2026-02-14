@@ -1,0 +1,102 @@
+Deutsch	Перевод	Beispiel	Перевод примера
+=== 1 ===	 	 	 
+die Anerkennung, -en	признание	Die Anerkennung des Diploms dauert lange.	Признание диплома занимает много времени.
+anerkennen	признавать	Mein Abschluss wurde in Deutschland anerkannt.	Мой диплом был признан в Германии.
+irgendwann	когда-нибудь	Irgendwann werde ich Arzt.	Когда-нибудь я стану врачом.
+der Arbeitsmarkt (Sg.)	рынок труда	Der Arbeitsmarkt ist schwierig.	Рынок труда сложный.
+abschließen ↔ beginnen	заканчивать ↔ начинать	Ich habe einen Kurs abgeschlossen.	Я закончил курс.
+einen Kurs abschließen	окончить курс	Sie hat den Deutschkurs abgeschlossen.	Она окончила курс немецкого.
+die Kopie, -n	копия	Bitte machen Sie eine Kopie.	Пожалуйста, сделайте копию.
+das Anerkennungsverfahren, –	процедура признания	Das Anerkennungsverfahren dauert Monate.	Процедура признания длится месяцы.
+der Berater, – / die Beraterin, -nen	консультант	Der Berater hilft bei der Anerkennung.	Консультант помогает с признанием.
+dokumentieren	документировать	Man muss alles dokumentieren.	Нужно всё документировать.
+aufgeben	сдаваться, бросать	Gib nicht so schnell auf!	Не сдавайся так быстро!
+das Leben, –	жизнь	Das Leben in Deutschland ist anders.	Жизнь в Германии другая.
+die Überraschung, -en	сюрприз	Das war eine große Überraschung.	Это был большой сюрприз.
+der Bau (Sg.)	строительство	Er arbeitet auf dem Bau.	Он работает на стройке.
+die Baustelle, -n	стройплощадка	Die Baustelle ist sehr groß.	Стройплощадка очень большая.
+=== Berufe ===	 	 	 
+der Englischlehrer, – / die Englischlehrerin, -nen	учитель английского	Die Englischlehrerin kommt aus England.	Учительница английского из Англии.
+der Erzieher, – / die Erzieherin, -nen	воспитатель	Die Erzieherin arbeitet in der Kita.	Воспитательница работает в детском саду.
+der IT-Spezialist, -en / die IT-Spezialistin, -nen	IT-специалист	Der IT-Spezialist repariert den Computer.	IT-специалист ремонтирует компьютер.
+der Kfz-Mechatroniker, – / die Kfz-Mechatronikerin, -nen	автомеханик	Der Kfz-Mechatroniker repariert Autos.	Автомеханик ремонтирует машины.
+=== Wortschatzerweiterung ===	 	 	 
+der Import, -e	импорт	Der Import von Waren steigt.	Импорт товаров растёт.
+die Zeitarbeit (Sg.)	временная работа	Zeitarbeit ist in Deutschland verbreitet.	Временная работа распространена в Германии.
+der Arbeitnehmer, – / die Arbeitnehmerin, -nen	работник	Die Arbeitnehmer haben Rechte.	Работники имеют права.
+die Gewerkschaft, -en	профсоюз	Die Gewerkschaft kämpft für bessere Löhne.	Профсоюз борется за лучшие зарплаты.
+der Betriebsrat, -räte	производственный совет	Der Betriebsrat vertritt die Mitarbeiter.	Производственный совет представляет сотрудников.
+der Fachmann, -männer / die Fachfrau, -en	специалист	Er ist Fachmann für Technik.	Он специалист по технике.
+=== 2–3 ===	 	 	 
+innerhalb ↔ außerhalb	в пределах ↔ за пределами	Innerhalb der Stadt gibt es viele Jobs.	В пределах города много вакансий.
+der Erfolg, -e	успех	Der Erfolg kam nicht sofort.	Успех пришёл не сразу.
+die Erfolgsgeschichte, -n	история успеха	Das ist eine tolle Erfolgsgeschichte.	Это отличная история успеха.
+die Arbeitsbescheinigung, -en	справка с работы	Ich brauche eine Arbeitsbescheinigung.	Мне нужна справка с работы.
+das Arbeitszeugnis, -se	характеристика с работы	Das Arbeitszeugnis war sehr gut.	Характеристика с работы была очень хорошей.
+der Montagehelfer, – / die Montagehelferin, -nen	помощник на монтаже	Der Montagehelfer arbeitet in der Fabrik.	Помощник на монтаже работает на фабрике.
+die Klimatechnik (Sg.)	климатическая техника	Er arbeitet in der Klimatechnik.	Он работает в сфере климатической техники.
+der Traum, Träume	мечта	Mein Traum ist ein guter Job.	Моя мечта — хорошая работа.
+der Traumberuf	профессия мечты	Mein Traumberuf ist Arzt.	Моя профессия мечты — врач.
+=== 4 ===	 	 	 
+die Arbeitserlaubnis (Sg.)	разрешение на работу	Ohne Arbeitserlaubnis darf man nicht arbeiten.	Без разрешения на работу нельзя работать.
+die Zufriedenheit (Sg.)	удовлетворённость	Die Zufriedenheit der Mitarbeiter ist wichtig.	Удовлетворённость сотрудников важна.
+ausdrucken	распечатывать	Bitte drucken Sie das Formular aus.	Пожалуйста, распечатайте бланк.
+nachdem	после того как	Nachdem ich gegessen habe, gehe ich spazieren.	После того как я поел, я иду гулять.
+=== 5 ===	 	 	 
+die Schulbildung (Sg.)	школьное образование	Eine gute Schulbildung ist wichtig.	Хорошее школьное образование важно.
+die Grundschule, -n	начальная школа	Die Kinder gehen in die Grundschule.	Дети ходят в начальную школу.
+die Gesamtschule, -n	общая школа	Die Gesamtschule hat alle Stufen.	В общей школе есть все ступени.
+die Realschule, -n	реальная школа	Nach der Realschule macht er eine Ausbildung.	После реальной школы он проходит обучение.
+das Gymnasium, Gymnasien	гимназия	Das Gymnasium bereitet auf die Uni vor.	Гимназия готовит к университету.
+die berufsbildende Schule	профессиональная школа	Die berufsbildende Schule bietet Praxis.	Профессиональная школа предлагает практику.
+der Schulabschluss, -abschlüsse	школьный аттестат	Ohne Schulabschluss ist es schwer.	Без школьного аттестата трудно.
+das Schülerpraktikum, -praktika	школьная практика	Das Schülerpraktikum dauert zwei Wochen.	Школьная практика длится две недели.
+der Anschluss (Sg.)	продолжение, присоединение	Im Anschluss an seine Ausbildung hat er bei der Firma gearbeitet.	После обучения он работал в фирме.
+=== 6 ===	 	 	 
+das Berufsprofil, -e	профессиональный профиль	Das Berufsprofil beschreibt die Aufgaben.	Профессиональный профиль описывает задачи.
+das Fahrzeug, -e	транспортное средство	Das Fahrzeug ist neu.	Транспортное средство новое.
+die Fahrzeugelektronik (Sg.)	автомобильная электроника	Die Fahrzeugelektronik ist modern.	Автомобильная электроника современная.
+die Flüssigkeit, -en	жидкость	Prüfen Sie die Flüssigkeit.	Проверьте жидкость.
+die Bremsflüssigkeit	тормозная жидкость	Die Bremsflüssigkeit muss gewechselt werden.	Тормозную жидкость нужно заменить.
+die Freisprechanlage, -n	громкая связь (в авто)	Das Auto hat eine Freisprechanlage.	В машине есть громкая связь.
+das Navigationsgerät, -e (das Navi, -s)	навигатор	Das Navi zeigt den Weg.	Навигатор показывает путь.
+der Ölwechsel, –	замена масла	Der Ölwechsel kostet 50 Euro.	Замена масла стоит 50 евро.
+die Probefahrt, -en	тест-драйв	Wollen Sie eine Probefahrt machen?	Хотите сделать тест-драйв?
+das System, -e	система	Das System funktioniert gut.	Система работает хорошо.
+die Geschwindigkeit, -en	скорость	Die Geschwindigkeit beträgt 120 km/h.	Скорость составляет 120 км/ч.
+austauschen	обменивать, заменять	Die Teile müssen ausgetauscht werden.	Детали нужно заменить.
+bzw. (beziehungsweise)	или, соответственно	Der Chef bzw. die Chefin entscheidet.	Шеф, соответственно шефиня, решает.
+defekt	неисправный	Das Gerät ist defekt.	Прибор неисправен.
+durchführen	проводить, выполнять	Wir führen eine Prüfung durch.	Мы проводим проверку.
+erstellen	создавать, составлять	Ich erstelle einen Bericht.	Я составляю отчёт.
+testen	тестировать	Wir testen das neue System.	Мы тестируем новую систему.
+die Betonung, -en	ударение, акцент	Die Betonung liegt auf der zweiten Silbe.	Ударение на втором слоге.
+großschreiben	писать с заглавной буквы	Nomen schreibt man groß.	Существительные пишут с заглавной буквы.
+=== Berufe (6) ===	 	 	 
+der Kaufmann, -männer / die Kauffrau, -en	коммерсант	Die Kauffrau arbeitet im Handel.	Коммерсантка работает в торговле.
+die Kaufleute (Pl.)	коммерсанты	Die Kaufleute verhandeln die Preise.	Коммерсанты обсуждают цены.
+der Pflegehelfer, – / die Pflegehelferin, -nen	помощник по уходу	Die Pflegehelferin hilft den Patienten.	Помощница по уходу помогает пациентам.
+=== 7 ===	 	 	 
+=== Berufe (7) ===	 	 	 
+der Apotheker, – / die Apothekerin, -nen	аптекарь	Die Apothekerin berät die Kunden.	Аптекарша консультирует клиентов.
+der Buchhändler, – / die Buchhändlerin, -nen	книготорговец	Der Buchhändler empfiehlt ein Buch.	Книготорговец рекомендует книгу.
+der Fliesenleger, – / die Fliesenlegerin, -nen	плиточник	Der Fliesenleger legt Fliesen im Bad.	Плиточник кладёт плитку в ванной.
+der Flugbegleiter, – / die Flugbegleiterin, -nen	бортпроводник	Die Flugbegleiterin begrüßt die Passagiere.	Бортпроводница приветствует пассажиров.
+der Gärtner, – / die Gärtnerin, -nen	садовник	Der Gärtner pflegt den Garten.	Садовник ухаживает за садом.
+der Gebäudereiniger, – / die Gebäudereinigerin, -nen	уборщик зданий	Der Gebäudereiniger reinigt das Büro.	Уборщик зданий убирает офис.
+der Krankenpfleger, – / die Krankenpflegerin, -nen	медбрат / медсестра	Die Krankenpflegerin pflegt die Patienten.	Медсестра ухаживает за пациентами.
+=== Berufsfelder ===	 	 	 
+das Berufsfeld, -er	профессиональная область	Es gibt viele verschiedene Berufsfelder.	Есть много разных профессиональных областей.
+die Verwaltung (Sg.)	управление, администрация	Er arbeitet in der Verwaltung.	Он работает в администрации.
+die Bildung (Sg.)	образование	Bildung ist sehr wichtig.	Образование очень важно.
+das Handwerk (Sg.)	ремесло	Im Handwerk gibt es viele Berufe.	В ремесле много профессий.
+die Gastronomie (Sg.)	гастрономия	Die Gastronomie sucht Personal.	Гастрономия ищет персонал.
+die Landwirtschaft (Sg.)	сельское хозяйство	Die Landwirtschaft ist wichtig für das Land.	Сельское хозяйство важно для страны.
+der Handel (Sg.)	торговля	Der Handel wächst jedes Jahr.	Торговля растёт каждый год.
+die Logistik (Sg.)	логистика	Die Logistik organisiert den Transport.	Логистика организует перевозки.
+dazugehören	принадлежать к	Er möchte dazugehören.	Он хочет принадлежать к ним.
+infrage kommen	подходить, быть вариантом	Nachts zu arbeiten kommt für mich nicht infrage.	Работать по ночам для меня не вариант.
+die Nachtarbeit (Sg.)	ночная работа	Nachtarbeit ist schlecht für die Gesundheit.	Ночная работа вредна для здоровья.
+die Sauberkeit (Sg.)	чистота	Sauberkeit ist in der Küche wichtig.	Чистота на кухне важна.
+das Trinkgeld, -er	чаевые	Der Gast gibt Trinkgeld.	Гость оставляет чаевые.
+die Vorliebe, -n	предпочтение, пристрастие	Er hat eine Vorliebe für Technik.	У него пристрастие к технике.

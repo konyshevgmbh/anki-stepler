@@ -1,0 +1,110 @@
+Deutsch	Перевод	Beispiel	Перевод примера
+=== 1 ===	 	 	 
+die Fahne, -n	флаг	Die Fahne weht im Wind.	Флаг развевается на ветру.
+festhalten	держать(ся), фиксировать	Halt dich gut fest!	Держись крепко!
+der Integrationskurs, -e	интеграционный курс	Der Integrationskurs dauert sechs Monate.	Интеграционный курс длится шесть месяцев.
+das Aufenthaltsrecht, -e	право на пребывание	Er hat ein Aufenthaltsrecht in Deutschland.	У него есть право на пребывание в Германии.
+die Wahl, -en	выбор, выборы	Die freie Wahl des Wohnorts ist ein Grundrecht.	Свободный выбор места жительства — основное право.
+die EU (Europäische Union)	ЕС (Европейский союз)	Die EU hat 27 Mitgliedstaaten.	В ЕС 27 государств-членов.
+der EU-Bürger, – / die EU-Bürgerin, -nen	гражданин ЕС	EU-Bürger können frei reisen.	Граждане ЕС могут свободно путешествовать.
+das EU-Land, -Länder	страна ЕС	Deutschland ist ein EU-Land.	Германия — страна ЕС.
+die Einbürgerung, -en	получение гражданства	Die Einbürgerung dauert lange.	Получение гражданства занимает много времени.
+die Flucht (Sg.)	бегство, побег	Die Flucht war gefährlich.	Побег был опасным.
+zurückliegen	быть в прошлом	Das liegt schon Jahre zurück.	Это было уже много лет назад.
+das Grundrecht, -e	основное право	Die Meinungsfreiheit ist ein Grundrecht.	Свобода слова — основное право.
+der Schutz (Sg.)	защита	Der Schutz der Familie ist wichtig.	Защита семьи важна.
+die Visafreiheit (Sg.)	безвизовый режим	EU-Bürger genießen Visafreiheit.	Граждане ЕС пользуются безвизовым режимом.
+das Wahlrecht (Sg.)	избирательное право	Jeder Bürger hat das Wahlrecht.	Каждый гражданин имеет избирательное право.
+=== 2 ===	 	 	 
+der Staatsbürger, – / die Staatsbürgerin, -nen	гражданин / гражданка	Er ist deutscher Staatsbürger.	Он гражданин Германии.
+einbürgern	предоставлять гражданство	Er wurde in Deutschland eingebürgert.	Он получил гражданство Германии.
+die Botschaft, -en	посольство	Die deutsche Botschaft ist im Zentrum.	Немецкое посольство в центре.
+das Visum, Visa	виза	Das Visum ist abgelaufen.	Виза истекла.
+die Aufenthaltserlaubnis (Sg.)	вид на жительство	Sie hat eine Aufenthaltserlaubnis.	У неё есть вид на жительство.
+die Glaubensfreiheit (Sg.)	свобода вероисповедания	Die Glaubensfreiheit ist geschützt.	Свобода вероисповедания защищена.
+die Meinungsfreiheit (Sg.)	свобода слова	Die Meinungsfreiheit ist ein Grundrecht.	Свобода слова — основное право.
+identifizieren	идентифицировать	Man muss sich identifizieren.	Нужно идентифицировать себя.
+=== Wortschatzerweiterung ===	 	 	 
+die Abschiebung, -en	депортация	Die Abschiebung wurde gestoppt.	Депортация была остановлена.
+politisch	политический	Er ist politisch aktiv.	Он политически активен.
+das Amt, Ämter	ведомство, учреждение	Das Amt ist montags geschlossen.	Ведомство по понедельникам закрыто.
+kandidieren	баллотироваться	Sie kandidiert für das Parlament.	Она баллотируется в парламент.
+=== 3 ===	 	 	 
+das Original, -e	оригинал	Bringen Sie bitte das Original mit.	Принесите, пожалуйста, оригинал.
+wissenswert	заслуживающий внимания	Das ist wissenswert.	Это стоит знать.
+der Einbürgerungsantrag, -anträge	заявление на гражданство	Der Einbürgerungsantrag ist eingereicht.	Заявление на гражданство подано.
+vollständig	полный, полностью	Die Unterlagen sind vollständig.	Документы полные.
+der Grundwert, -e	основная ценность	Freiheit ist ein Grundwert.	Свобода — основная ценность.
+das Passfoto, -s	фото на паспорт	Ich brauche ein neues Passfoto.	Мне нужно новое фото на паспорт.
+ausreichen	быть достаточным	Die Unterlagen reichen aus.	Документов достаточно.
+die Urkunde, -n	свидетельство, документ	Die Geburtsurkunde ist wichtig.	Свидетельство о рождении важно.
+die Geburtsurkunde	свидетельство о рождении	Bringen Sie Ihre Geburtsurkunde mit.	Принесите своё свидетельство о рождении.
+die Heiratsurkunde	свидетельство о браке	Die Heiratsurkunde muss übersetzt werden.	Свидетельство о браке нужно перевести.
+entfallen	отпадать	Dieser Schritt entfällt.	Этот шаг отпадает.
+der Nachweis, -e	подтверждение, справка	Sie brauchen einen Einkommensnachweis.	Вам нужно подтверждение дохода.
+der Einkommensnachweis	подтверждение дохода	Der Einkommensnachweis ist Pflicht.	Подтверждение дохода обязательно.
+der Ausbildungsvertrag, -verträge	договор об обучении	Der Ausbildungsvertrag wurde unterschrieben.	Договор об обучении был подписан.
+die Gehaltsabrechnung, -en	расчётный лист	Die Gehaltsabrechnung kommt monatlich.	Расчётный лист приходит ежемесячно.
+bestehen	сдать (экзамен)	Er hat den bestandenen Test geschafft.	Он сдал тест.
+der Einbürgerungstest, -s	тест на гражданство	Der Einbürgerungstest hat 33 Fragen.	Тест на гражданство содержит 33 вопроса.
+die Übersetzung, -en	перевод	Die Übersetzung muss beglaubigt sein.	Перевод должен быть заверен.
+vorlegen	предъявлять	Bitte legen Sie ein Dokument vor.	Пожалуйста, предъявите документ.
+die Demokratie, -en	демократия	Die Demokratie ist wichtig.	Демократия важна.
+auswählen	выбирать	Wählen Sie eine Antwort aus.	Выберите ответ.
+englischsprachig	англоязычный	Das ist ein englischsprachiges Land.	Это англоязычная страна.
+der Deutschtest, -s	тест по немецкому	Der Deutschtest ist nicht schwer.	Тест по немецкому несложный.
+=== 4 ===	 	 	 
+biometrisch	биометрический	Das Passfoto muss biometrisch sein.	Фото на паспорт должно быть биометрическим.
+die Kopfbedeckung, -en	головной убор	Kopfbedeckungen sind auf dem Foto nicht erlaubt.	Головные уборы на фото не разрешены.
+das Kopftuch, -tücher	платок (головной)	Sie trägt ein Kopftuch.	Она носит платок.
+religiös	религиозный	Das ist ein religiöses Symbol.	Это религиозный символ.
+erkennen	узнавать, распознавать	Man muss die Person erkennen können.	Нужно уметь распознать человека.
+das Passbild, -er	фото на паспорт	Das Passbild muss aktuell sein.	Фото на паспорт должно быть актуальным.
+strahlen	сиять, улыбаться	Sie strahlt auf dem Foto.	Она сияет на фото.
+stinken	вонять	Der Müll stinkt.	Мусор воняет.
+vergangen	прошлый, прошедший	Im vergangenen Jahr war ich in Berlin.	В прошлом году я был в Берлине.
+das Vorjahr, -e	предыдущий год	Im Vorjahr gab es weniger Anträge.	В предыдущем году было меньше заявлений.
+belohnen	вознаграждать	Harte Arbeit wird belohnt.	Тяжёлый труд вознаграждается.
+sinken ↔ steigen	снижаться ↔ расти	Die Preise sinken.	Цены снижаются.
+heimlich	тайно	Er hat heimlich gefilmt.	Он тайно снимал.
+filmen	снимать (на видео)	Darf man hier filmen?	Можно здесь снимать?
+die Kriminalpolizei (Sg.)	уголовная полиция	Die Kriminalpolizei ermittelt.	Уголовная полиция ведёт расследование.
+der Verbrecher, – / die Verbrecherin, -nen	преступник / преступница	Der Verbrecher wurde gefasst.	Преступник был пойман.
+fassen	ловить, хватать	Die Polizei hat den Täter gefasst.	Полиция поймала преступника.
+die Gewerkschaft, -en	профсоюз	Die Gewerkschaft kämpft für bessere Löhne.	Профсоюз борется за лучшие зарплаты.
+beschließen	решать, принимать решение	Das Parlament hat das Gesetz beschlossen.	Парламент принял закон.
+=== 5 ===	 	 	 
+die Vertretung, -en	замещение, представительство	Ich brauche eine Vertretung.	Мне нужна замена.
+der Pfeil, -e	стрелка	Der Pfeil zeigt nach rechts.	Стрелка указывает направо.
+die Begründung, -en	обоснование	Die Begründung ist überzeugend.	Обоснование убедительно.
+auf keinen Fall	ни в коем случае	Das geht auf keinen Fall.	Это ни в коем случае не пойдёт.
+runterbringen	снести вниз	Bringst du den Müll runter?	Снесёшь мусор вниз?
+=== 6 ===	 	 	 
+der Anstieg (Sg.)	рост, подъём	Der Anstieg der Mieten ist ein Problem.	Рост арендной платы — проблема.
+der Neubürger, – / die Neubürgerin, -nen	новый гражданин	Die Neubürger wurden begrüßt.	Новых граждан поприветствовали.
+der Gewinn (Sg.)	выигрыш, прибыль	Der Gewinn für die Gesellschaft ist groß.	Выигрыш для общества большой.
+der Innenminister, –	министр внутренних дел	Der Innenminister hat gesprochen.	Министр внутренних дел выступил.
+die Einbürgerungsurkunde, -n	свидетельство о гражданстве	Die Einbürgerungsurkunde ist ein wichtiges Dokument.	Свидетельство о гражданстве — важный документ.
+der Arbeitsmigrant, -en / die Arbeitsmigrantin, -nen	трудовой мигрант	Die Arbeitsmigranten kamen in den 60er-Jahren.	Трудовые мигранты приехали в 60-х годах.
+die Deutschkenntnisse (Pl.)	знания немецкого языка	Gute Deutschkenntnisse sind wichtig.	Хорошие знания немецкого языка важны.
+nachweisen	доказывать, подтверждать	Sie müssen Ihre Sprachkenntnisse nachweisen.	Вы должны подтвердить знание языка.
+beitragen	вносить вклад	Sie haben mit ihrer Arbeit zum Erfolg beigetragen.	Они своим трудом внесли вклад в успех.
+doppelt	двойной	Die doppelte Staatsbürgerschaft ist möglich.	Двойное гражданство возможно.
+die Staatsbürgerschaft, -en	гражданство	Er hat die deutsche Staatsbürgerschaft.	У него немецкое гражданство.
+=== 7 ===	 	 	 
+der Standpunkt, -e	точка зрения	Das ist mein Standpunkt.	Это моя точка зрения.
+der Daumen, –	большой палец	Ich drücke dir die Daumen!	Держу за тебя кулачки!
+drücken	нажимать, давить	Drücken Sie den Knopf.	Нажмите кнопку.
+erwerben	приобретать	Er will die deutsche Staatsbürgerschaft erwerben.	Он хочет приобрести немецкое гражданство.
+hierbleiben	остаться здесь	Ich möchte hierbleiben.	Я хочу остаться здесь.
+die Nordsee (Sg.)	Северное море	Wir fahren an die Nordsee.	Мы едем на Северное море.
+die Vokabel, -n	слово (из словаря)	Ich muss Vokabeln lernen.	Мне нужно учить слова.
+=== 8 ===	 	 	 
+die Lebensqualität (Sg.)	качество жизни	Die Lebensqualität ist hoch.	Качество жизни высокое.
+die Digitalisierung (Sg.)	цифровизация	Die Digitalisierung verändert die Arbeitswelt.	Цифровизация меняет мир труда.
+die Bürokratie (Sg.)	бюрократия	Die Bürokratie ist kompliziert.	Бюрократия сложная.
+hervorragend	выдающийся, отличный	Das Essen war hervorragend.	Еда была отличной.
+Folgendes	следующее	Letze Woche habe ich Folgendes erlebt: ...	На прошлой неделе я пережил следующее: ...
+aggressiv	агрессивный	Der Hund ist aggressiv.	Собака агрессивная.
+der Titel, –	титул, заголовок	Der Titel des Buches ist lang.	Заголовок книги длинный.
+ungeduldig	нетерпеливый	Sei nicht so ungeduldig!	Не будь таким нетерпеливым!

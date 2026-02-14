@@ -1,0 +1,100 @@
+Deutsch	Перевод	Beispiel	Перевод примера
+=== 1 ===	 	 	 
+das Gebäude, –	здание	Das Gebäude ist sehr alt.	Здание очень старое.
+das Haus, Häuser	дом	Wir kaufen ein Haus.	Мы покупаем дом.
+das Hochhaus	многоэтажный дом	Das Hochhaus hat 20 Stockwerke.	В многоэтажном доме 20 этажей.
+das Reihenhaus	таунхаус	Das Reihenhaus hat einen kleinen Garten.	У таунхауса маленький сад.
+das Fachwerkhaus	фахверковый дом	Das Fachwerkhaus ist typisch für die Region.	Фахверковый дом типичен для региона.
+das Mehrfamilienhaus	многоквартирный дом	Wir wohnen in einem Mehrfamilienhaus.	Мы живём в многоквартирном доме.
+das Einfamilienhaus	частный дом	Sie träumen von einem Einfamilienhaus.	Они мечтают о частном доме.
+der Altbau, -bauten	старое здание	Der Altbau hat hohe Decken.	В старом здании высокие потолки.
+der Neubau, -bauten	новостройка	Der Neubau ist modern.	Новостройка современная.
+die Lage, -n	расположение	Die Lage der Wohnung ist ideal.	Расположение квартиры идеальное.
+die Stadt, Städte	город	Die Stadt hat viele Parks.	В городе много парков.
+die Kleinstadt	маленький город	Die Kleinstadt ist ruhig.	Маленький город тихий.
+die Großstadt	большой город	In der Großstadt ist immer etwas los.	В большом городе всегда что-то происходит.
+die Innenstadt	центр города	Die Innenstadt ist belebt.	Центр города оживлённый.
+das Zentrum, Zentren	центр	Das Zentrum ist gut erreichbar.	До центра легко добраться.
+das Dorf, Dörfer	деревня	Das Dorf hat 500 Einwohner.	В деревне 500 жителей.
+der Stadtrand, -ränder	окраина города	Wir wohnen am Stadtrand.	Мы живём на окраине города.
+der Vorort, -e	пригород	Der Vorort ist ruhiger als die Stadt.	Пригород тише, чем город.
+raus ↔ rein	наружу ↔ внутрь	Ich möchte raus aus der Stadt.	Я хочу уехать из города.
+das Angebot, -e	предложение	Mir gefällt das kulturelle Angebot in der Stadt.	Мне нравится культурное предложение в городе.
+sich etwas vorstellen	представлять себе что-то	Ich kann mir vorstellen, eine Wohnung zu kaufen.	Я могу представить себе покупку квартиры.
+sich etwas leisten können	мочь себе позволить	Wir können uns die große Wohnung nicht leisten.	Мы не можем позволить себе большую квартиру.
+der Kauf, Käufe	покупка	Der Kauf des Hauses war teuer.	Покупка дома была дорогой.
+anonym	анонимный	In der Großstadt lebt man anonym.	В большом городе живут анонимно.
+kinderfreundlich	дружелюбный к детям	Die Gegend ist sehr kinderfreundlich.	Район очень дружелюбный к детям.
+lebendig	живой, оживлённый	Die Innenstadt ist lebendig.	Центр города оживлённый.
+hektisch	суетливый	Das Leben in der Stadt ist hektisch.	Жизнь в городе суетливая.
+das Semester, –	семестр	Niko studiert im dritten Semester Medizin.	Нико учится на третьем семестре медицины.
+der Kandidat, -en / die Kandidatin, -nen	кандидат	Der Kandidat hat sich gut vorgestellt.	Кандидат хорошо представился.
+=== 2 ===	 	 	 
+eine Wohnung suchen	искать квартиру	Wir suchen eine Wohnung in Berlin.	Мы ищем квартиру в Берлине.
+die Wohnungssuche (Sg.)	поиск квартиры	Die Wohnungssuche ist stressig.	Поиск квартиры — это стресс.
+die Eigentumswohnung, -en	квартира в собственности	Sie hat eine Eigentumswohnung gekauft.	Она купила квартиру в собственность.
+die Einbauküche, -n	встроенная кухня	Die Wohnung hat eine Einbauküche.	В квартире есть встроенная кухня.
+der Erstbezug (Sg.)	первое заселение	Die Wohnung ist Erstbezug.	Квартира сдаётся впервые.
+die Kaltmiete, -n	арендная плата без коммунальных	Die Kaltmiete beträgt 600 Euro.	Арендная плата без коммунальных — 600 евро.
+die Warmmiete, -n	арендная плата с коммунальными	Die Warmmiete ist 800 Euro.	Арендная плата с коммунальными — 800 евро.
+die Nebenkosten (Pl.)	коммунальные расходы	Die Nebenkosten sind hoch.	Коммунальные расходы высокие.
+der Kaufpreis, -e	цена покупки	Der Kaufpreis ist verhandelbar.	Цена покупки договорная.
+der Nachmieter, – / die Nachmieterin, -nen	следующий арендатор	Wir suchen einen Nachmieter.	Мы ищем следующего арендатора.
+das Erdgeschoss, -e (EG)	первый этаж	Die Wohnung ist im Erdgeschoss.	Квартира на первом этаже.
+das Obergeschoss, -e (OG)	верхний этаж	Das Büro ist im Obergeschoss.	Офис на верхнем этаже.
+die Wohnfläche, -n	жилая площадь	Die Wohnfläche beträgt 80 qm.	Жилая площадь составляет 80 кв. м.
+die Besonderheit, -en	особенность	Die Besonderheit ist der große Balkon.	Особенность — большой балкон.
+=== 3 ===	 	 	 
+liebenswert	достойный любви, милый	Die Nachbarin ist sehr liebenswert.	Соседка очень милая.
+lebenswert	пригодный для жизни	Die Stadt ist sehr lebenswert.	Город очень пригодный для жизни.
+bezahlbar	доступный по цене	Bezahlbare Wohnungen sind selten.	Доступные по цене квартиры — редкость.
+nah	близкий	Der Supermarkt ist nah.	Супермаркет близко.
+isoliert	изолированный	Auf dem Land fühlt man sich manchmal isoliert.	В деревне иногда чувствуешь себя изолированным.
+unmöglich	невозможный	Das ist unmöglich!	Это невозможно!
+hierhin	сюда	Als Rentner bin ich hierhin gezogen.	На пенсии я переехал сюда.
+das Kulturangebot, -e	культурное предложение	Das Kulturangebot in der Stadt ist groß.	Культурное предложение в городе большое.
+erreichen	достигать, добираться	Die Stadt ist gut zu erreichen.	До города легко добраться.
+plaudern	болтать	Wir plaudern mit den Nachbarn.	Мы болтаем с соседями.
+der Postbote, -n / die Postbotin, -nen	почтальон	Der Postbote bringt die Post.	Почтальон приносит почту.
+der Radweg, -e	велосипедная дорожка	Es gibt viele Radwege in der Stadt.	В городе много велосипедных дорожек.
+der Wanderweg, -e	туристическая тропа	Der Wanderweg führt durch den Wald.	Туристическая тропа ведёт через лес.
+=== 4 ===	 	 	 
+das Netz (= das Internet)	сеть (интернет)	Die Webseite heißt „Nachbarschaft im Netz".	Сайт называется «Соседство в сети».
+(sich) vernetzen	объединяться в сеть	Nachbarn vernetzen sich online.	Соседи объединяются в сети.
+der Klick, -s	клик	Mit einem Klick vernetzt!	Одним кликом в сети!
+der Hammer, Hämmer	молоток	Hast du einen Hammer?	У тебя есть молоток?
+handwerklich	ремесленный	Er ist handwerklich begabt.	Он одарён в ремесле.
+der Kleiderschrank, -schränke	шкаф для одежды	Der Kleiderschrank ist voll.	Шкаф для одежды полный.
+die Nachbarschaftshilfe (Sg.)	соседская помощь	Nachbarschaftshilfe ist wichtig.	Соседская помощь важна.
+die Plattform, -en	платформа	Die Plattform verbindet Nachbarn.	Платформа объединяет соседей.
+aufwachsen	вырастать	Ich bin hier aufgewachsen.	Я вырос здесь.
+die Internetseite, -n	интернет-страница	Auf der Internetseite gibt es Angebote und Gesuche.	На интернет-странице есть предложения и запросы.
+das Gesuch, -e	запрос, объявление	Er hat ein Gesuch aufgegeben.	Он подал объявление.
+der Grill, -s	гриль	Wir haben einen neuen Gasgrill.	У нас новый газовый гриль.
+der Gasgrill	газовый гриль	Der Gasgrill ist praktisch.	Газовый гриль практичный.
+der Selbstabholer, – / die Selbstabholerin, -nen	самовывоз (лицо)	Nur für Selbstabholer.	Только для самовывоза.
+=== 5 ===	 	 	 
+proben	репетировать	Die Band probt jeden Freitag.	Группа репетирует каждую пятницу.
+übernächst-	через один (следующий за следующим)	Übernächsten Mittwoch habe ich frei.	В среду через неделю у меня выходной.
+zuschicken	присылать	Bitte schicken Sie mir die Unterlagen zu.	Пожалуйста, пришлите мне документы.
+(sich) verabschieden	прощаться	Wir verabschieden uns am Bahnhof.	Мы прощаемся на вокзале.
+=== Wortschatzerweiterung ===	 	 	 
+die Mühe, -n	труд, усилие	Die Mühe hat sich gelohnt.	Усилия окупились.
+der Transport, -e	перевозка	Der Transport kostet extra.	Перевозка стоит дополнительно.
+der Möbelpacker, – / die Möbelpackerin, -nen	грузчик мебели	Die Möbelpacker kommen morgen.	Грузчики мебели придут завтра.
+kräftig	сильный, крепкий	Er ist sehr kräftig.	Он очень сильный.
+wertvoll	ценный	Das ist ein wertvolles Buch.	Это ценная книга.
+die Stufe, -n	ступенька	Vorsicht, Stufe!	Осторожно, ступенька!
+das Wunder, –	чудо	Das ist kein Wunder.	Это неудивительно.
+erleichtert	с облегчением	Ich bin erleichtert.	Мне полегчало.
+=== 6 ===	 	 	 
+benachrichtigen	уведомлять	Wir benachrichtigen Sie per E-Mail.	Мы уведомим вас по электронной почте.
+mitteilen	сообщать	Ich teile Ihnen die Ergebnisse mit.	Я сообщу вам результаты.
+der Eltern-Kind-Kurs, -e	курс для родителей с детьми	Der Eltern-Kind-Kurs ist sehr beliebt.	Курс для родителей с детьми очень популярен.
+der Musikkurs, -e	музыкальный курс	Der Musikkurs beginnt nächste Woche.	Музыкальный курс начинается на следующей неделе.
+die Warteliste, -n	лист ожидания	Wir stehen auf der Warteliste.	Мы в листе ожидания.
+=== 7 ===	 	 	 
+der Apparat, -e	аппарат, телефон	Bleiben Sie bitte am Apparat.	Оставайтесь, пожалуйста, на линии.
+das Willkommensgeschenk, -e	подарок на новоселье	Wir bringen ein Willkommensgeschenk mit.	Мы принесём подарок на новоселье.
+der Zungenbrecher, –	скороговорка	Ich spreche den Zungenbrecher vor und ihr sprecht nach.	Я произношу скороговорку, а вы повторяете.
+vorsprechen ↔ nachsprechen	произносить ↔ повторять за	In Ulm, um Ulm und um Ulm herum.	В Ульме, вокруг Ульма и вокруг Ульма кругом.

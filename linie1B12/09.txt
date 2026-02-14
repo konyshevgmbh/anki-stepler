@@ -1,0 +1,111 @@
+Deutsch	Перевод	Beispiel	Перевод примера
+=== 1 ===	 	 	 
+das Portal, -e	портал	Ich suche einen Job auf einem Portal.	Я ищу работу на портале.
+das Jobportal	портал вакансий	Das Jobportal hat viele Stellenangebote.	На портале вакансий много предложений работы.
+entweder … oder	или … или	Entweder du rufst an oder du schreibst.	Или ты позвонишь, или напишешь.
+sprechen über	говорить о	Wir sprechen über unsere Berufe.	Мы говорим о наших профессиях.
+die Sprachnachricht, -en	голосовое сообщение	Ich habe dir eine Sprachnachricht geschickt.	Я отправил тебе голосовое сообщение.
+jobben	подрабатывать	Er jobbt als Kellner.	Он подрабатывает официантом.
+die Mindmap, -s	ментальная карта	Wir erstellen eine Mindmap zum Thema Arbeit.	Мы составляем ментальную карту на тему работы.
+der Begriff, -e	понятие, термин	Kennen Sie diesen Begriff?	Вы знаете этот термин?
+handeln	действовать, торговать	Man muss schnell handeln.	Нужно действовать быстро.
+die Fortbildung, -en	повышение квалификации	Die Firma bietet Fortbildungen an.	Фирма предлагает курсы повышения квалификации.
+die Kündigung, -en	увольнение, расторжение	Er hat die Kündigung bekommen.	Он получил увольнение.
+das Labor, -s	лаборатория	Sie arbeitet im Labor.	Она работает в лаборатории.
+das Lager, –	склад	Die Waren sind im Lager.	Товары на складе.
+die Messe, -n	ярмарка, выставка	Wir fahren zur Messe nach Hannover.	Мы едем на ярмарку в Ганновер.
+der Verlag, -e	издательство	Er arbeitet in einem Verlag.	Он работает в издательстве.
+der Lohn, Löhne	зарплата (рабочих)	Der Lohn wird am Ende des Monats gezahlt.	Зарплата выплачивается в конце месяца.
+der Lehrling, -e	ученик (подмастерье)	Der Lehrling lernt den Beruf.	Ученик осваивает профессию.
+der Meister, –	мастер	Er hat die Prüfung zum Meister bestanden.	Он сдал экзамен на мастера.
+die Schichtarbeit (Sg.)	сменная работа	Schichtarbeit ist anstrengend.	Сменная работа утомительна.
+die Teilzeit (Sg.)	неполный рабочий день	Sie arbeitet in Teilzeit.	Она работает на неполный рабочий день.
+die Überstunde, -n	сверхурочный час	Ich mache heute Überstunden.	Я сегодня работаю сверхурочно.
+(sich) weiterbilden	повышать квалификацию	Man sollte sich regelmäßig weiterbilden.	Нужно регулярно повышать квалификацию.
+die Berufserfahrung, -en	опыт работы	Sie hat viel Berufserfahrung.	У неё большой опыт работы.
+=== Berufe ===	 	 	 
+der Beruf, -e	профессия	Was ist Ihr Beruf?	Какая у вас профессия?
+der Anwalt, Anwälte / die Anwältin, -nen	адвокат	Mein Anwalt berät mich.	Мой адвокат консультирует меня.
+der Professor, Professoren / die Professorin, -nen	профессор	Die Professorin hält eine Vorlesung.	Профессор читает лекцию.
+der Richter, – / die Richterin, -nen	судья	Der Richter sprach das Urteil.	Судья вынес приговор.
+der Sekretär, -e / die Sekretärin, -nen	секретарь	Die Sekretärin organisiert die Termine.	Секретарь организует встречи.
+der Sozialarbeiter, – / die Sozialarbeiterin, -nen	социальный работник	Der Sozialarbeiter hilft Familien.	Социальный работник помогает семьям.
+=== Wortschatzerweiterung ===	 	 	 
+die Tagesmutter, -mütter / der Tagesvater, -väter	няня / воспитатель (дневной)	Die Tagesmutter betreut drei Kinder.	Няня присматривает за тремя детьми.
+der Übersetzer, – / die Übersetzerin, -nen	переводчик	Der Übersetzer übersetzt das Buch.	Переводчик переводит книгу.
+die Agentur für Arbeit	агентство по трудоустройству	Ich war bei der Agentur für Arbeit.	Я был в агентстве по трудоустройству.
+=== 2 ===	 	 	 
+der Wunsch, Wünsche	желание	Mein Wunsch ist eine gute Arbeit.	Моё желание — хорошая работа.
+die Wirklichkeit, -en	действительность	In der Wirklichkeit ist alles anders.	В действительности всё иначе.
+der/die Angestellte, -n	служащий	Er ist Angestellter bei Siemens.	Он служащий в «Сименс».
+das Homeoffice (Sg.)	домашний офис	Ich arbeite heute im Homeoffice.	Я сегодня работаю из дома.
+die Mittagspause, -n	обеденный перерыв	Die Mittagspause dauert eine Stunde.	Обеденный перерыв длится час.
+halbtags ↔ ganztags	на полдня ↔ на полный день	Sie arbeitet halbtags.	Она работает на полдня.
+die Teamarbeit (Sg.)	командная работа	Teamarbeit ist sehr wichtig.	Командная работа очень важна.
+die Verantwortung (Sg.)	ответственность	Er trägt viel Verantwortung.	Он несёт большую ответственность.
+die Weiterbildung, -en	повышение квалификации	Die Weiterbildung beginnt im März.	Курс повышения квалификации начинается в марте.
+die Karriere, -n	карьера	Sie hat Karriere gemacht.	Она сделала карьеру.
+Karriere machen	делать карьеру	Er will Karriere machen.	Он хочет сделать карьеру.
+=== 3 ===	 	 	 
+(sich etwas) wünschen	желать (себе что-то)	Ich wünsche mir mehr Freizeit.	Я хочу больше свободного времени.
+das Seil, -e	канат, верёвка	Halt dich am Seil fest!	Держись за канат!
+die Dachterrasse, -n	терраса на крыше	Wir sitzen auf der Dachterrasse.	Мы сидим на террасе на крыше.
+tätig sein als	работать в качестве	Lena ist als Erzieherin tätig.	Лена работает воспитательницей.
+=== 4 ===	 	 	 
+die Bewerbung, -en	заявление о приёме на работу	Ich schreibe eine Bewerbung.	Я пишу заявление о приёме на работу.
+das Stellenangebot, -e	вакансия, предложение работы	Im Internet gibt es viele Stellenangebote.	В интернете много вакансий.
+aha	ага	Aha, jetzt verstehe ich!	Ага, теперь я понимаю!
+Da bin ich schon verabredet.	У меня уже назначена встреча.	Da bin ich schon verabredet.	У меня уже назначена встреча.
+Aha, schade!	Ага, жаль!	Aha, schade!	Ага, жаль!
+apropos	кстати	Apropos, hast du den Brief gelesen?	Кстати, ты прочитал письмо?
+der Traumjob, -s	работа мечты	Ich habe meinen Traumjob gefunden.	Я нашёл работу мечты.
+die Weltreise, -n	кругосветное путешествие	Sie plant eine Weltreise.	Она планирует кругосветное путешествие.
+=== 5 ===	 	 	 
+die Entwicklung, -en	развитие	Die Entwicklung geht schnell.	Развитие идёт быстро.
+das Event, -s	мероприятие	Wir organisieren ein großes Event.	Мы организуем большое мероприятие.
+mehrjährig	многолетний	Er hat mehrjährige Erfahrung.	У него многолетний опыт.
+die Kenntnisse (Pl.)	знания	Gute Kenntnisse in Englisch sind nötig.	Нужны хорошие знания английского.
+die Englischkenntnisse (Pl.)	знания английского	Ihre Englischkenntnisse sind sehr gut.	Её знания английского очень хорошие.
+erforderlich	необходимый	Ein Führerschein ist erforderlich.	Водительское удостоверение необходимо.
+das Marketing (Sg.)	маркетинг	Sie arbeitet im Marketing.	Она работает в маркетинге.
+befristet	срочный (с ограниченным сроком)	Der Vertrag ist befristet.	Договор срочный.
+das Catering (Sg.)	кейтеринг	Das Catering für die Feier ist bestellt.	Кейтеринг для праздника заказан.
+die Bereitschaft (Sg.)	готовность	Er zeigt Bereitschaft zu helfen.	Он проявляет готовность помочь.
+das Anschreiben, –	сопроводительное письмо	Das Anschreiben muss persönlich sein.	Сопроводительное письмо должно быть личным.
+die Geschäftsführung, -en	руководство (фирмы)	Die Geschäftsführung hat entschieden.	Руководство приняло решение.
+die Herausforderung, -en	вызов, трудность	Der Job ist eine große Herausforderung.	Эта работа — большой вызов.
+die Qualifikation, -en	квалификация	Welche Qualifikation haben Sie?	Какая у вас квалификация?
+die Kundenbetreuung (Sg.)	обслуживание клиентов	Die Kundenbetreuung ist sehr wichtig.	Обслуживание клиентов очень важно.
+die Computerkenntnisse (Pl.)	знания в области компьютеров	Gute Computerkenntnisse sind nötig.	Нужны хорошие компьютерные знания.
+der Anhang, Anhänge	приложение (к письму)	Die Dokumente sind im Anhang.	Документы в приложении.
+sowie	а также	Deutsch sowie Englisch sind erwünscht.	Немецкий, а также английский приветствуются.
+das Zertifikat, -e	сертификат	Ich habe ein B2-Zertifikat.	У меня есть сертификат B2.
+mitschicken	прилагать, отправлять вместе	Bitte schicken Sie Ihren Lebenslauf mit.	Пожалуйста, приложите своё резюме.
+geeignet sein (für)	подходить (для)	Er ist für diese Stelle geeignet.	Он подходит для этой должности.
+sich auskennen (mit)	разбираться (в чём-то)	Sie kennt sich mit Computern aus.	Она разбирается в компьютерах.
+=== Berufe ===	 	 	 
+der Projektmanager, – / die Projektmanagerin, -nen	менеджер проекта	Die Projektmanagerin leitet das Team.	Менеджер проекта руководит командой.
+der Assistent, -en / die Assistentin, -nen	ассистент	Die Assistentin hilft dem Chef.	Ассистентка помогает шефу.
+die Bürokauffrau, -en / der Bürokaufmann, -männer	офисный служащий	Die Bürokauffrau organisiert das Büro.	Офисная служащая организует офис.
+=== 6 ===	 	 	 
+miteinander	друг с другом	Wir arbeiten gut miteinander.	Мы хорошо работаем друг с другом.
+die Schwäche, -n ↔ die Stärke, -n	слабость ↔ сила	Jeder hat Schwächen und Stärken.	У каждого есть слабости и сильные стороны.
+die Pünktlichkeit (Sg.)	пунктуальность	Pünktlichkeit ist in Deutschland wichtig.	Пунктуальность важна в Германии.
+=== 7 ===	 	 	 
+der Eindruck, Eindrücke	впечатление	Der erste Eindruck zählt.	Первое впечатление имеет значение.
+die Körpersprache (Sg.)	язык тела	Die Körpersprache sagt viel aus.	Язык тела говорит о многом.
+die Mimik (Sg.)	мимика	Seine Mimik war freundlich.	Его мимика была дружелюбной.
+die Gestik (Sg.)	жестикуляция	Sie benutzt viel Gestik beim Sprechen.	Она много жестикулирует при разговоре.
+die Vorbereitung, -en	подготовка	Die Vorbereitung ist wichtig.	Подготовка важна.
+die Ehrlichkeit (Sg.)	честность	Ehrlichkeit ist mir wichtig.	Честность для меня важна.
+zukünftig	будущий	Der zukünftige Chef kommt morgen.	Будущий начальник придёт завтра.
+die Fähigkeit, -en	способность, навык	Er hat viele Fähigkeiten.	У него много способностей.
+die Vorstellung, -en	представление, собеседование	Die Vorstellung war erfolgreich.	Собеседование прошло успешно.
+gehen um	речь идёт о	Worum geht es in dem Gespräch?	О чём идёт речь в разговоре?
+herausfinden	выяснять	Ich muss die Wahrheit herausfinden.	Я должен выяснить правду.
+solch-	такой	Seien Sie auf solche Fragen vorbereitet.	Будьте готовы к таким вопросам.
+auftreten	выступать, вести себя	Er tritt selbstbewusst auf.	Он держится уверенно.
+(sich) erkundigen	осведомляться	Ich erkundige mich nach dem Preis.	Я интересуюсь ценой.
+wirken	производить впечатление	Sie wirkt sehr kompetent.	Она производит впечатление очень компетентной.
+gelten	действовать, считаться	Das gilt auch online.	Это действует и в интернете.
+erfordern	требовать	Ein Vorstellungsgespräch erfordert eine gute Vorbereitung.	Собеседование требует хорошей подготовки.

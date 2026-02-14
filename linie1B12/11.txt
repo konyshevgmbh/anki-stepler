@@ -1,0 +1,96 @@
+Deutsch	Перевод	Beispiel	Перевод примера
+=== 1 ===	 	 	 
+ein Kind bekommen	родить ребёнка	Sie hat letztes Jahr ein Kind bekommen.	Она родила ребёнка в прошлом году.
+der Mutterschutz (Sg.)	декретный отпуск	Der Mutterschutz beginnt vor der Geburt.	Декретный отпуск начинается до родов.
+das Elterngeld (Sg.)	родительское пособие	Elterngeld bekommt man vom Staat.	Родительское пособие получают от государства.
+die Schwangerschaft, -en	беременность	Die Schwangerschaft dauert neun Monate.	Беременность длится девять месяцев.
+die Vorfreude, -n	предвкушение	Die Vorfreude auf das Baby ist groß.	Предвкушение рождения малыша велико.
+die Geburt, -en	рождение, роды	Die Geburt war problemlos.	Роды прошли без проблем.
+sich vorbereiten auf	готовиться к	Sie bereiten sich auf die Geburt vor.	Они готовятся к родам.
+die Spielsachen (Pl.)	игрушки	Die Spielsachen liegen im Kinderzimmer.	Игрушки лежат в детской.
+die Windel, -n	подгузник	Das Baby braucht eine neue Windel.	Малышу нужен новый подгузник.
+problemlos	без проблем	Alles verlief problemlos.	Всё прошло без проблем.
+nachdenken	размышлять	Ich denke über das Problem nach.	Я размышляю над проблемой.
+akzeptieren	принимать, соглашаться	Man muss die Situation akzeptieren.	Нужно принять ситуацию.
+die Teamleitung, -en	руководство команды	Sie hat die Teamleitung übernommen.	Она взяла на себя руководство командой.
+optimistisch	оптимистичный	Er ist sehr optimistisch.	Он очень оптимистичен.
+die Bestätigung, -en	подтверждение	Ich warte auf die Bestätigung.	Я жду подтверждения.
+das Umfeld (Sg.)	окружение	Das Umfeld ist sehr unterstützend.	Окружение очень поддерживающее.
+die Mutterrolle, -n	роль матери	Die Mutterrolle ist nicht immer einfach.	Роль матери не всегда проста.
+die Verantwortung tragen	нести ответственность	Eltern tragen große Verantwortung.	Родители несут большую ответственность.
+deutlich	отчётливо, явно	Das kann ich deutlich besser als mein Mann.	Это я умею явно лучше, чем мой муж.
+verständlich	понятный	Seine Erklärung war verständlich.	Его объяснение было понятным.
+gleichberechtigt	равноправный	Sind Frauen und Männer wirklich gleichberechtigt?	Действительно ли мужчины и женщины равноправны?
+=== 2 ===	 	 	 
+auf die Welt kommen	родиться	Das Baby kam gestern auf die Welt.	Малыш родился вчера.
+während	во время, в то время как	Während der Arbeit telefoniere ich nicht.	Во время работы я не звоню.
+beinahe	почти	Ich hätte beinahe den Bus verpasst.	Я чуть не опоздал на автобус.
+vermissen	скучать по	Ich vermisse meine Familie.	Я скучаю по своей семье.
+zweifeln	сомневаться	Ich zweifle an seiner Ehrlichkeit.	Я сомневаюсь в его честности.
+vereinbaren	совмещать, договариваться	Ich kann Familie und Beruf nur schwer vereinbaren.	Мне трудно совмещать семью и работу.
+traditionell	традиционный	Die Familie lebt traditionell.	Семья живёт традиционно.
+existieren	существовать	Das Problem existiert schon lange.	Проблема существует уже давно.
+aufteilen	разделять, распределять	Wir teilen die Arbeit auf.	Мы распределяем работу.
+umgekehrt	наоборот	Bei uns ist es umgekehrt.	У нас наоборот.
+=== 3 ===	 	 	 
+wickeln	пеленать, менять подгузник	Der Vater wickelt das Baby.	Отец меняет подгузник малышу.
+im Internet surfen	сидеть в интернете	Abends surfe ich im Internet.	По вечерам я сижу в интернете.
+ungewohnt	непривычный	Die neue Rolle ist noch ungewohnt.	Новая роль ещё непривычна.
+die Frauenrolle, -n	женская роль	Die Frauenrolle hat sich verändert.	Женская роль изменилась.
+die Männerrolle, -n	мужская роль	Die Männerrolle verändert sich auch.	Мужская роль тоже меняется.
+=== 4 ===	 	 	 
+das Radiointerview, -s	радиоинтервью	Das Radiointerview war interessant.	Радиоинтервью было интересным.
+alleinerziehend	воспитывающий в одиночку	Sie ist alleinerziehende Mutter.	Она мать-одиночка.
+der Vollzeitjob, -s	работа на полную ставку	Ein Vollzeitjob und Kinder — das ist schwer.	Работа на полную ставку и дети — это тяжело.
+abschicken	отправлять	Ich schicke die E-Mail ab.	Я отправляю электронное письмо.
+sauber machen	убирать, наводить чистоту	Ich mache die Wohnung sauber.	Я убираю квартиру.
+=== 5 ===	 	 	 
+die Kindertagesstätte, -n (die Kita, -s)	детский сад	Die Kita öffnet um 7 Uhr.	Детский сад открывается в 7 часов.
+der Kita-Platz, -Plätze	место в детском саду	Wir suchen einen Kita-Platz.	Мы ищем место в детском саду.
+sprachlich	языковой	Die sprachliche Entwicklung ist wichtig.	Языковое развитие важно.
+rechnen	считать	Das Kind lernt rechnen.	Ребёнок учится считать.
+die Tageseltern (Pl.)	дневные воспитатели	Jedes Kind hat das Recht auf Betreuung in einer Kita oder bei Tageseltern.	Каждый ребёнок имеет право на присмотр в детском саду или у дневных воспитателей.
+das Zusatzangebot, -e	дополнительное предложение	Die Kita hat viele Zusatzangebote.	В детском саду много дополнительных предложений.
+regeln	регулировать, решать	Bei uns regelt das die Stadt.	У нас это регулирует город.
+rechtlich	правовой, юридический	Rechtlich ist alles klar.	Юридически всё ясно.
+die Steuer, -n	налог	Wir müssen Steuern zahlen.	Мы должны платить налоги.
+Steuern zahlen	платить налоги	Alle Bürger zahlen Steuern.	Все граждане платят налоги.
+die Stiefmutter, -mütter / der Stiefvater, -väter	мачеха / отчим	Mein Stiefvater ist sehr nett.	Мой отчим очень приятный.
+zusammenbleiben	оставаться вместе	Wir wollen zusammenbleiben.	Мы хотим остаться вместе.
+die Enttäuschung, -en	разочарование	Die Enttäuschung war groß.	Разочарование было большим.
+sich scheiden lassen	разводиться	Sie haben sich scheiden lassen.	Они развелись.
+sich anfühlen	ощущаться	Die Beziehung fühlt sich richtig an.	Отношения ощущаются правильными.
+biologisch	биологический	Er ist der biologische Vater.	Он биологический отец.
+die Patchworkfamilie, -n	лоскутная семья (сводная)	Patchworkfamilien sind heute normal.	Сводные семьи сегодня — это нормально.
+der Ehepartner, – / die Ehepartnerin, -nen	супруг / супруга	Mein Ehepartner arbeitet viel.	Мой супруг много работает.
+die Fernbeziehung, -en	отношения на расстоянии	Eine Fernbeziehung ist nicht einfach.	Отношения на расстоянии — это непросто.
+entfernt	далёкий, на расстоянии	Er wohnt 500 Kilometer entfernt.	Он живёт в 500 километрах.
+der Kilometer, – (km)	километр	Die Stadt ist 100 Kilometer entfernt.	Город находится в 100 километрах.
+die Liebesbeziehung, -en	любовные отношения	Sie führen eine Liebesbeziehung.	Они состоят в любовных отношениях.
+=== 6 ===	 	 	 
+die Emotion, -en	эмоция	Er zeigt seine Emotionen nicht.	Он не показывает своих эмоций.
+müde	усталый	Ich bin sehr müde.	Я очень устал.
+traurig	грустный	Sie ist heute traurig.	Она сегодня грустная.
+ängstlich	тревожный, пугливый	Das Kind ist ängstlich.	Ребёнок пугливый.
+fröhlich	весёлый	Die Kinder sind fröhlich.	Дети весёлые.
+zufrieden	довольный	Ich bin zufrieden mit meinem Job.	Я доволен своей работой.
+entschlossen	решительный	Sie ist sehr entschlossen.	Она очень решительная.
+aufmerksam	внимательный	Er hört aufmerksam zu.	Он слушает внимательно.
+ernst	серьёзный	Die Lage ist ernst.	Ситуация серьёзная.
+realistisch	реалистичный	Sei bitte realistisch!	Будь, пожалуйста, реалистичным!
+die Version, -en	версия	Das ist meine Version der Geschichte.	Это моя версия истории.
+die Chips (Pl.)	чипсы	Abends essen wir Chips.	По вечерам мы едим чипсы.
+=== 7 ===	 	 	 
+die Ehe, -n	брак	Die Ehe hält schon 20 Jahre.	Брак длится уже 20 лет.
+durchschnittlich	в среднем	Durchschnittlich heiraten Deutsche mit 32.	В среднем немцы женятся в 32 года.
+der Durchschnitt (Sg.)	среднее значение	Im Durchschnitt haben Familien zwei Kinder.	В среднем в семьях двое детей.
+im Durchschnitt	в среднем	Im Durchschnitt arbeitet er 40 Stunden.	В среднем он работает 40 часов.
+familiär	семейный	Die Atmosphäre ist familiär.	Атмосфера семейная.
+egoistisch	эгоистичный	Das war egoistisch von dir.	Это было эгоистично с твоей стороны.
+=== Wortschatzerweiterung ===	 	 	 
+die Trauung, -en	бракосочетание	Die Trauung findet im Standesamt statt.	Бракосочетание состоится в ЗАГСе.
+die Trennung, -en	расставание, разлука	Die Trennung war schwer.	Расставание было тяжёлым.
+der Gatte, -n / die Gattin, -nen	супруг / супруга	Mein Gatte und ich reisen gern.	Мой супруг и я любим путешествовать.
+der/die Angehörige, -n	родственник	Die Angehörigen warten im Flur.	Родственники ждут в коридоре.
+betrügen	обманывать, изменять	Man soll niemanden betrügen.	Никого нельзя обманывать.
+(sich) umarmen	обнимать(ся)	Meine Freunde umarme ich, wenn ich sie treffe.	Я обнимаю друзей, когда встречаю их.

@@ -1,0 +1,96 @@
+Deutsch	Перевод	Beispiel	Перевод примера
+=== 1 ===
+eine Prüfung machen	сдавать экзамен	Morgen mache ich eine Prüfung.	Завтра я сдаю экзамен.
+(sich) vorbereiten	готовиться	Ich bereite mich intensiv auf eine Prüfung vor.	Я интенсивно готовлюсь к экзамену.
+sich anstrengen	стараться, напрягаться	Streng dich an!	Постарайся!
+der Stress (Sg.)	стресс	Der Stress vor der Prüfung ist groß.	Стресс перед экзаменом большой.
+Stress haben	испытывать стресс	Ich habe gerade viel Stress.	У меня сейчас много стресса.
+nervös sein	нервничать	Ich bin vor der Prüfung nervös.	Я нервничаю перед экзаменом.
+erschöpft sein	быть измождённым	Nach der Prüfung bin ich erschöpft.	После экзамена я измождён.
+schaffen	справиться, сделать	Ich habe die Prüfung geschafft!	Я сдал экзамен!
+Juhu!	Ура!	Juhu, ich habe die Prüfung geschafft!	Ура, я сдал экзамен!
+vorbei sein	закончиться	Die Prüfung ist vorbei.	Экзамен закончился.
+erleichtert sein	быть с облегчением	Ich bin erleichtert.	Мне полегчало.
+feiern	праздновать	Wir feiern den Erfolg.	Мы празднуем успех.
+(sich) belohnen	вознаграждать (себя)	Ich belohne mich mit einer Reise.	Я вознаграждаю себя поездкой.
+verreisen	уехать в путешествие	Wir verreisen nächste Woche.	Мы уезжаем на следующей неделе.
+gespannt sein	быть в предвкушении	Ich bin gespannt auf die Reise.	Я в предвкушении поездки.
+die Küste, -n	побережье	Wir fahren an die Küste.	Мы едем на побережье.
+die Ostsee (Sg.)	Балтийское море	Wir fahren an die Ostsee.	Мы едем на Балтийское море.
+übernachten	ночевать	Wir übernachten im Hotel.	Мы ночуем в отеле.
+die Jugendherberge, -n	молодёжная гостиница	Die Jugendherberge ist günstig.	Молодёжная гостиница недорогая.
+vorschlagen	предлагать	Ich schlage eine Reise vor.	Я предлагаю поездку.
+die Postkarte, -n	открытка	Ich schicke dir eine Postkarte.	Я пришлю тебе открытку.
+ehemalig	бывший	Die ehemalige DDR ist jetzt Teil Deutschlands.	Бывшая ГДР теперь часть Германии.
+=== 2–3 ===
+die Reisegruppe, -n	туристическая группа	Die Reisegruppe hat 20 Personen.	В туристической группе 20 человек.
+der Hauptbahnhof (Hbf.)	главный вокзал	Wir treffen uns am Hauptbahnhof.	Мы встречаемся на главном вокзале.
+die Verbindung, -en	соединение, связь	Es gibt eine gute Verbindung nach Berlin.	Есть хорошее сообщение до Берлина.
+das Zugticket, -s	билет на поезд	Das Zugticket kostet 50 Euro.	Билет на поезд стоит 50 евро.
+der Sparpreis, -e	льготный тариф	Mit dem Sparpreis reist man günstiger.	По льготному тарифу путешествовать дешевле.
+nachkommen	приехать позже	Adrian muss noch arbeiten. Er kommt nach.	Адриан ещё должен работать. Он приедет позже.
+anfragen	запрашивать	Ich frage bei dem Hotel an.	Я делаю запрос в отель.
+die Unterkunft, Unterkünfte	жильё, размещение	Die Unterkunft ist gebucht.	Жильё забронировано.
+das Hostel, -s	хостел	Das Hostel ist zentral gelegen.	Хостел расположен в центре.
+der Schlaf (Sg.)	сон	Der Schlaf war gut.	Сон был хорошим.
+zur Verfügung haben	иметь в распоряжении	Wir haben noch den ganzen Sonntag zur Verfügung.	У нас ещё целое воскресенье в распоряжении.
+zuerst	сначала	Zuerst mal Informationen zum Zug: ...	Сначала информация о поезде: ...
+halb	половина	Die Fahrt dauert viereinhalb Stunden.	Поездка длится четыре с половиной часа.
+die Straßenbahnlinie, -n	трамвайная линия	Die Straßenbahnlinie 4 fährt zum Bahnhof.	Трамвайная линия 4 идёт до вокзала.
+die Stadtrundfahrt, -en	обзорная экскурсия по городу	Wir machen eine Stadtrundfahrt.	Мы делаем обзорную экскурсию по городу.
+das Denkmal, Denkmäler	памятник	Das Denkmal steht im Park.	Памятник стоит в парке.
+das Industriedenkmal	промышленный памятник	Das Industriedenkmal ist sehr interessant.	Промышленный памятник очень интересный.
+die Sprachnachricht, -en	голосовое сообщение	Ich schicke dir eine Sprachnachricht.	Я пришлю тебе голосовое сообщение.
+die Telefonnotiz, -en	телефонная заметка	Ich habe eine Telefonnotiz geschrieben.	Я написал телефонную заметку.
+selbstgemacht	домашний, самодельный	Zum Frühstück gibt es selbstgemachte Marmelade.	На завтрак домашнее варенье.
+verpassen	пропустить, опоздать	Schnell, wir wollen den Zug nicht verpassen.	Быстрее, мы не хотим опоздать на поезд.
+auschecken	выписаться	Wir müssen aus dem Hostel auschecken.	Нам нужно выписаться из хостела.
+die Zahnbürste, -n	зубная щётка	Ich habe meine Zahnbürste vergessen.	Я забыл свою зубную щётку.
+=== 4 ===
+die Polizeiarbeit (Sg.)	работа полиции	Die Polizeiarbeit ist wichtig.	Работа полиции важна.
+die Polizei (Sg.)	полиция	Die Polizei kommt sofort.	Полиция приедет сразу.
+sorgen für	заботиться о	Die Polizei sorgt für Sicherheit.	Полиция заботится о безопасности.
+der Strafzettel, –	штрафная квитанция	Ich habe einen Strafzettel bekommen.	Я получил штрафную квитанцию.
+der Alarm, -e	тревога	Der Alarm wurde ausgelöst.	Тревога была объявлена.
+alarmieren	вызывать, поднимать тревогу	Die Nachbarn haben die Polizei alarmiert.	Соседи вызвали полицию.
+der Verdacht (Sg.)	подозрение	Der Verdacht hat sich bestätigt.	Подозрение подтвердилось.
+verdächtig	подозрительный	Der Mann sieht verdächtig aus.	Мужчина выглядит подозрительно.
+der Zeuge, -n / die Zeugin, -nen	свидетель / свидетельница	Der Zeuge hat alles gesehen.	Свидетель всё видел.
+das Opfer, –	жертва	Das Opfer wurde verletzt.	Жертва была ранена.
+der Täter, – / die Täterin, -nen	преступник / преступница	Der Täter wurde gefasst.	Преступник был пойман.
+kriminell	криминальный	Das ist eine kriminelle Handlung.	Это криминальное действие.
+stoppen	останавливать	Die Polizei hat das Auto gestoppt.	Полиция остановила машину.
+entführen	похищать	Das Kind wurde entführt.	Ребёнок был похищен.
+der Einbrecher, – / die Einbrecherin, -nen	взломщик / взломщица	Der Einbrecher wurde gefasst.	Взломщик был пойман.
+einbrechen	вламываться	Jemand ist in die Wohnung eingebrochen.	Кто-то вломился в квартиру.
+einschlagen	разбивать	Der Dieb hat ein Fenster eingeschlagen.	Вор разбил окно.
+fliehen	бежать, спасаться бегством	Der Täter ist geflohen.	Преступник сбежал.
+festnehmen	задерживать	Die Polizei hat den Täter festgenommen.	Полиция задержала преступника.
+verhaften	арестовывать	Der Verdächtige wurde verhaftet.	Подозреваемый был арестован.
+das Urteil, -e	приговор	Das Urteil war gerecht.	Приговор был справедливым.
+=== Wortschatzerweiterung ===
+das Kennzeichen, –	номерной знак	Das Kennzeichen wurde notiert.	Номерной знак был записан.
+der Dieb, -e	вор	Der Dieb wurde gefasst.	Вор был пойман.
+stehlen	красть	Jemand hat mein Fahrrad gestohlen.	Кто-то украл мой велосипед.
+der Kampf, Kämpfe	борьба	Der Kampf gegen Kriminalität ist wichtig.	Борьба с преступностью важна.
+die Spur, -en	след	Die Polizei verfolgt die Spur.	Полиция преследует след.
+beleidigen	оскорблять	Er hat mich beleidigt.	Он меня оскорбил.
+=== 5 ===
+der Lift, -e	лифт	Der Lift fährt in den dritten Stock.	Лифт едет на третий этаж.
+von ... her	со стороны	Von der Straße her ist es laut.	Со стороны улицы шумно.
+der Haupteingang, -eingänge	главный вход	Der Haupteingang ist vorne.	Главный вход спереди.
+besetzt	занятый	Die Rezeption ist bis 22:00 Uhr besetzt.	Рецепция работает до 22:00.
+=== 6 ===
+das Wahrzeichen, –	символ (города)	Das Wahrzeichen von Berlin ist das Brandenburger Tor.	Символ Берлина — Бранденбургские ворота.
+die Architektur (Sg.)	архитектура	Die Architektur ist beeindruckend.	Архитектура впечатляющая.
+das Mittelalter (Sg.)	Средневековье	Die Kirche stammt aus dem Mittelalter.	Церковь родом из Средневековья.
+entlanglaufen	идти вдоль	Wir laufen am Wasser entlang.	Мы идём вдоль воды.
+die Fähre, -n	паром	Die Fähre fährt jede Stunde.	Паром ходит каждый час.
+die Lebensmittelindustrie, -n	пищевая промышленность	Die Lebensmittelindustrie ist groß.	Пищевая промышленность большая.
+das Marzipan (Sg.)	марципан	Lübeck ist berühmt für Marzipan.	Любек знаменит марципаном.
+der Sonnenuntergang, -untergänge	закат	Der Sonnenuntergang am Meer ist schön.	Закат на море красивый.
+das Fußball-Stadion, -Stadien	футбольный стадион	Das Fußball-Stadion ist ausverkauft.	Футбольный стадион распродан.
+=== 7–8 ===
+mitfahren	ехать вместе	Fährst du mit?	Поедешь с нами?
+historisch	исторический	Das historische Rathaus ist sehenswert.	Историческая ратуша достойна внимания.
+Ciao! (= Tschau!)	Чао! (Пока!)	Ciao, bis morgen!	Чао, до завтра!

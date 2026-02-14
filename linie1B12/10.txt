@@ -1,0 +1,119 @@
+Deutsch	Перевод	Beispiel	Перевод примера
+=== 1–2 ===	 	 	 
+sportlich	спортивный	Er ist sehr sportlich.	Он очень спортивный.
+der Sportler, – / die Sportlerin, -nen	спортсмен / спортсменка	Die Sportlerin trainiert jeden Tag.	Спортсменка тренируется каждый день.
+sich bewegen	двигаться	Man sollte sich täglich bewegen.	Нужно двигаться каждый день.
+sich anstrengen	стараться, напрягаться	Streng dich mehr an!	Старайся больше!
+das Workout, -s	тренировка	Ich mache jeden Morgen ein Workout.	Я делаю тренировку каждое утро.
+ein Workout machen	делать тренировку	Sie macht ein Workout im Fitnessstudio.	Она делает тренировку в фитнес-зале.
+der Muskel, -n	мышца	Die Muskeln tun mir weh.	У меня болят мышцы.
+die Muskeln trainieren	тренировать мышцы	Er trainiert seine Muskeln im Gym.	Он тренирует мышцы в зале.
+das Krafttraining, -s	силовая тренировка	Krafttraining macht stark.	Силовая тренировка делает сильным.
+der Wettkampf, -kämpfe	соревнование	Sie nimmt an einem Wettkampf teil.	Она участвует в соревновании.
+an einem Wettkampf teilnehmen	участвовать в соревновании	Ich nehme am Wettkampf teil.	Я участвую в соревновании.
+die Meisterschaft, -en	чемпионат	Die Meisterschaft findet im Juni statt.	Чемпионат состоится в июне.
+der Sieg, -e	победа	Der Sieg war verdient.	Победа была заслуженной.
+am besten sein	быть лучшим	Er ist am besten in seiner Klasse.	Он лучший в своём классе.
+das Tor, -e	ворота, гол	Er hat ein Tor geschossen.	Он забил гол.
+schießen	стрелять, забивать	Der Spieler schießt den Ball ins Tor.	Игрок бьёт мячом в ворота.
+ein Tor schießen	забить гол	Sie hat ein Tor geschossen.	Она забила гол.
+der Fan, -s	фанат, болельщик	Die Fans jubeln laut.	Болельщики громко ликуют.
+die Lieblingsmannschaft, -en	любимая команда	Meine Lieblingsmannschaft hat gewonnen.	Моя любимая команда выиграла.
+mutig	смелый	Das war sehr mutig von dir.	Это было очень смело с твоей стороны.
+sich wohlfühlen	чувствовать себя хорошо	Ich fühle mich hier wohl.	Я чувствую себя здесь хорошо.
+=== Sportarten ===	 	 	 
+die Sportart, -en	вид спорта	Welche Sportart magst du?	Какой вид спорта тебе нравится?
+Eishockey	хоккей	Im Winter spielen wir Eishockey.	Зимой мы играем в хоккей.
+Beachvolleyball	пляжный волейбол	Im Sommer spiele ich Beachvolleyball.	Летом я играю в пляжный волейбол.
+Tennis	теннис	Sie spielt gut Tennis.	Она хорошо играет в теннис.
+Klettern	скалолазание	Klettern ist ein toller Sport.	Скалолазание — отличный спорт.
+Joggen	бег трусцой	Ich gehe jeden Morgen joggen.	Я бегаю каждое утро.
+Tauchen	дайвинг, ныряние	Tauchen im Meer ist fantastisch.	Дайвинг в море — это фантастика.
+Yoga	йога	Yoga hilft bei Stress.	Йога помогает при стрессе.
+=== 3 ===	 	 	 
+überzeugen	убеждать	Er hat mich überzeugt.	Он меня убедил.
+überreden	уговаривать	Sie hat ihn zum Mitmachen überredet.	Она уговорила его участвовать.
+=== 4 ===	 	 	 
+die Technik, -en	техника	Selina möchte ihre Technik beim Schwimmen verbessern.	Селина хочет улучшить свою технику плавания.
+das Fitnessprogramm, -e	фитнес-программа	Das Fitnessprogramm dauert 8 Wochen.	Фитнес-программа длится 8 недель.
+das Ausdauertraining, -s	тренировка на выносливость	Ausdauertraining ist gut für das Herz.	Тренировка на выносливость полезна для сердца.
+das Lauftraining, -s	беговая тренировка	Das Lauftraining beginnt um 7 Uhr.	Беговая тренировка начинается в 7 часов.
+die Turnhalle, -n	спортивный зал	Die Turnhalle ist neu renoviert.	Спортивный зал недавно отремонтирован.
+die Umgebung, -en	окрестности, окружение	In der Umgebung gibt es viele Parks.	В окрестностях много парков.
+die Ausstattung, -en	оснащение, оборудование	Die Ausstattung im Fitnessstudio ist modern.	Оборудование в фитнес-зале современное.
+der Wellnessbereich, -e	зона отдыха, велнес-зона	Der Wellnessbereich hat eine Sauna.	В зоне отдыха есть сауна.
+der Kursstart (Sg.)	начало курса	Der Kursstart ist am Montag.	Начало курса в понедельник.
+die Schnupperwoche, -n	пробная неделя	Die Schnupperwoche ist kostenlos.	Пробная неделя бесплатная.
+die Mitgliedschaft, -en	членство	Die Mitgliedschaft kostet 30 Euro im Monat.	Членство стоит 30 евро в месяц.
+der Mitgliedsbeitrag, -beiträge	членский взнос	Der Mitgliedsbeitrag ist günstig.	Членский взнос недорогой.
+monatlich	ежемесячный	Die Gebühr wird monatlich bezahlt.	Плата вносится ежемесячно.
+zweitägig	двухдневный	Das Seminar ist zweitägig.	Семинар двухдневный.
+=== Wochentage ===	 	 	 
+montags	по понедельникам	Montags gehe ich schwimmen.	По понедельникам я хожу плавать.
+dienstags	по вторникам	Dienstags habe ich Yoga.	По вторникам у меня йога.
+mittwochs	по средам	Mittwochs spiele ich Tennis.	По средам я играю в теннис.
+donnerstags	по четвергам	Donnerstags ist Krafttraining.	По четвергам силовая тренировка.
+freitags	по пятницам	Freitags gehen wir joggen.	По пятницам мы бегаем.
+samstags	по субботам	Samstags mache ich Pause.	По субботам я отдыхаю.
+sonntags	по воскресеньям	Sonntags wandern wir.	По воскресеньям мы ходим в поход.
+die Voraussetzung, -en	предпосылка, условие	Gute Gesundheit ist eine Voraussetzung.	Хорошее здоровье — это условие.
+der Einsteiger, – / die Einsteigerin, -nen	начинающий	Der Kurs ist für Einsteiger.	Курс для начинающих.
+der Anfänger, – / die Anfängerin, -nen	новичок	Ich bin noch Anfänger.	Я ещё новичок.
+der Senior, -en / die Seniorin, -nen	пожилой человек	Senioren trainieren am Vormittag.	Пожилые люди тренируются по утрам.
+Achtung!	Внимание!	Achtung! Morgen findet kein Training statt.	Внимание! Завтра тренировки не будет.
+steigern	повышать, увеличивать	Er will seine Fitness steigern.	Он хочет повысить свою физическую форму.
+die Fitness steigern	повышать физическую форму	Sport hilft, die Fitness zu steigern.	Спорт помогает повысить форму.
+=== 5 ===	 	 	 
+dabei sein	участвовать, быть при этом	Ich bin morgen dabei.	Я завтра буду участвовать.
+gemischt	смешанный	In den gemischten Teams spielen Mädchen und Jungen zusammen.	В смешанных командах девочки и мальчики играют вместе.
+die Länge, -n	длина	Die Länge der Strecke beträgt 5 km.	Длина маршрута составляет 5 км.
+der Kilometer, –	километр	Ich laufe drei Kilometer.	Я пробегаю три километра.
+die Runde, -n	круг, раунд	Wir laufen noch eine Runde.	Мы пробежим ещё один круг.
+der/die DJ, -s	диджей	Der DJ legt gute Musik auf.	Диджей ставит хорошую музыку.
+auflegen	ставить музыку	Der DJ legt heute Abend auf.	Диджей ставит музыку сегодня вечером.
+die Teilnahme, -n	участие	Die Teilnahme ist kostenlos.	Участие бесплатное.
+das Mindestalter (Sg.)	минимальный возраст	Das Mindestalter ist 16 Jahre.	Минимальный возраст — 16 лет.
+der Spendenlauf, -läufe	благотворительный забег	Beim Spendenlauf sammeln wir Geld.	На благотворительном забеге мы собираем деньги.
+veranstalten	организовывать, проводить	Die Schule veranstaltet ein Sportfest.	Школа проводит спортивный праздник.
+der Veranstalter, –	организатор	Der Veranstalter plant das Event.	Организатор планирует мероприятие.
+der Läufer, – / die Läuferin, -nen	бегун / бегунья	Die Läuferin ist sehr schnell.	Бегунья очень быстрая.
+mitlaufen	бежать вместе	Willst du beim Marathon mitlaufen?	Хочешь бежать в марафоне?
+der Lauf, Läufe	забег, бег	Der Lauf beginnt um 10 Uhr.	Забег начинается в 10 часов.
+die Runde, -n	круг	Jede Runde ist 400 Meter lang.	Каждый круг — 400 метров.
+Spende, -n	пожертвование	Die Spenden gehen an ein Kinderprojekt.	Пожертвования идут на детский проект.
+der Spender, – / die Spenderin, -nen	жертвователь	Vielen Dank an alle Spender!	Большое спасибо всем жертвователям!
+=== 6 ===	 	 	 
+informieren	информировать	Wir informieren Sie per E-Mail.	Мы сообщим вам по электронной почте.
+loslaufen	побежать, стартовать	Die Läufer laufen um 9 Uhr los.	Бегуны стартуют в 9 часов.
+der Sportschuh, -e	спортивная обувь	Ich brauche neue Sportschuhe.	Мне нужна новая спортивная обувь.
+wegfahren	уезжать	Wir fahren am Wochenende weg.	Мы уезжаем на выходные.
+bevor	прежде чем	Bevor du läufst, wärm dich auf.	Прежде чем бежать, разомнись.
+davor	до этого, перед этим	Ich esse etwas davor.	Я поем что-нибудь до этого.
+=== 7 ===	 	 	 
+erfolgreich	успешный	Der Lauf war sehr erfolgreich.	Забег был очень успешным.
+der Sieger, – / die Siegerin, -nen	победитель / победительница	Die Siegerin bekommt einen Pokal.	Победительница получает кубок.
+ergeben	давать (результат)	Das ergibt die Spendensumme von 3.620 Euro.	Это даёт сумму пожертвований в 3620 евро.
+die Summe, -n	сумма	Die Summe ist beeindruckend.	Сумма впечатляющая.
+großzügig	щедрый	Die Spender waren sehr großzügig.	Жертвователи были очень щедрыми.
+das Jugendteam, -s	молодёжная команда	Das Jugendteam hat gut gespielt.	Молодёжная команда хорошо сыграла.
+der Rekord, -e	рекорд	Er hat einen neuen Rekord aufgestellt.	Он установил новый рекорд.
+der Betrag, Beträge	сумма (денежная)	Der Betrag wird überwiesen.	Сумма будет переведена.
+=== 8 ===	 	 	 
+die Ansage, -n	объявление	Hören Sie die Ansage.	Послушайте объявление.
+das Sportevent, -s	спортивное мероприятие	Das Sportevent war toll.	Спортивное мероприятие было отличным.
+das Turnier, -e	турнир	Das Turnier dauert drei Tage.	Турнир длится три дня.
+das Tennisturnier, -e	теннисный турнир	Das Tennisturnier findet im August statt.	Теннисный турнир состоится в августе.
+der Marathon, -s	марафон	Ich laufe meinen ersten Marathon.	Я бегу свой первый марафон.
+die Tageskarte, -n	дневной билет	Eine Tageskarte kostet 10 Euro.	Дневной билет стоит 10 евро.
+das Vereinsbüro, -s	офис клуба	Das Vereinsbüro ist ab 9 Uhr geöffnet.	Офис клуба открыт с 9 часов.
+die Buslinie, -n	автобусный маршрут	Die Buslinie 5 fährt zum Stadion.	Автобусный маршрут 5 идёт до стадиона.
+ein wenig	немного	Es gibt ein wenig Wind.	Немного ветрено.
+die Ausrede, -n	отговорка	Das ist nur eine Ausrede!	Это всего лишь отговорка!
+=== Wortschatzerweiterung ===	 	 	 
+besorgen	доставать, покупать	Kannst du Tickets besorgen?	Можешь достать билеты?
+besitzen	владеть	Er besitzt ein großes Haus.	Он владеет большим домом.
+die Jahreskarte, -n	годовой абонемент	Eine Jahreskarte lohnt sich.	Годовой абонемент окупается.
+das Wunder, –	чудо	Kein Wunder!	Неудивительно!
+verpassen	пропустить, упустить	Ich habe den Bus verpasst.	Я опоздал на автобус.
+weshalb	почему, по какой причине	Weshalb kommst du nicht mit?	Почему ты не идёшь с нами?
+übertragen	транслировать, передавать	Sie übertragen das Spiel im Fernsehen.	Они транслируют игру по телевизору.
