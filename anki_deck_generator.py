@@ -1,3 +1,11 @@
+import os
+
+os.environ["TTS_HOME"] = "./my_cache"
+os.environ["HF_HOME"] = "./my_cache"
+os.environ["TRANSFORMERS_CACHE"] = "./my_cache"
+os.environ["HF_DATASETS_CACHE"] = "./my_cache"
+os.environ["TORCH_HOME"] = "./my_cache"
+
 import argparse
 import hashlib
 import random
@@ -855,7 +863,7 @@ def main():
 
     generator = None
     try:
-        default_deck_name = f"Vocab {input_path.stem}"
+        default_deck_name = input_path.stem
         deck_name_to_use = args.deck_name if args.deck_name else default_deck_name
         generator = AnkiDeckGeneratorMultiLLM_DBState( # Use the new class name
             input_filepath=args.input_file, deck_name=deck_name_to_use, output_dir=args.output_dir,
